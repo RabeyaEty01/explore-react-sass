@@ -1,0 +1,24 @@
+.home-page h1 {
+  color: #f15c5c;
+}
+
+.home-page button {
+  width: 200px;
+  height: 40px;
+  background-color: #f15c5c;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  font-size: 25px;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  background-color: #8888e9;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  font-size: 25px;
+}
+/*# sourceMappingURL=Home.css.map */

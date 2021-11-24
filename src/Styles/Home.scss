@@ -1,0 +1,15 @@
+@import '../Variables/Variables.scss';
+
+.home-page{
+  h1{
+      color:$redColor;
+  }
+  button{
+     @include buttonStyles($redColor, 25px);
+  }
+}
+
+button{
+    @include buttonStyles(rgb(136, 136, 233), 25px);
+    
+ }
